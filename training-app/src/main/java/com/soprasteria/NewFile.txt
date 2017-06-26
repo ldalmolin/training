@@ -1,8 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Prova
 =======
+=======
+riga aggiunta
+>>>>>>> e606d28df66d445d033a85d19ec154053e911278
 
 riga aggiunta
 
 prova francescro fiorentino inserimento miei file
+<<<<<<< HEAD
 >>>>>>> 649457b1ee4ea87866be99ff7be2f2bd9c3a979b
+=======
+
+>>>>>>> e606d28df66d445d033a85d19ec154053e911278

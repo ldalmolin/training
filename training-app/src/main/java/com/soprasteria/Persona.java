@@ -23,7 +23,9 @@ public class Persona {
 	public String getIndirizzo(){
 		return indirizzo;
 	}
+
 	//sono stato qui FF
+
 	public void setIndirizzo(String ind){
 		indirizzo=ind;
 	}
