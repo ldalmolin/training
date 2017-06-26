@@ -1,10 +1,9 @@
 
+
 Ciao a tutti!!!
-=======
 
 Francesco Ciccarelli, Carmine Caiazza
 
-Francesco Ciccarelli
 
 francesco fiorentino inserimento miei file
 
@@ -12,4 +11,6 @@ francesco fiorentino inserimento miei file
 
 
 CIAO A TUTTI DA FRANCESCO FIORENTINO! :)
->>>>>>> 649457b1ee4ea87866be99ff7be2f2bd9c3a979b
+
+
+di Wikipedia sono organizzate su base linguistica e non nazionale
