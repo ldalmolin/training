@@ -40,6 +40,7 @@ public class App
 		// TODO Auto-generated method stub
 	}
 
+	//commento di flavio 2
 	private static PersonModel getPersonFromDB(String email) {
 		
 		PersonDAO personDAO = new DefaultPersonDAO();		
