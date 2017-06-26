@@ -12,18 +12,19 @@ import com.soprasteria.views.PersonView;
  * Hello world!
  *
  */
-public class App 
+public class App
 {
 	final static Logger logger = Logger.getLogger(App.class);
-    
+
 	public static void main( String[] args ) {
-       	
+
 		PersonModel personModel = getPersonFromDB(args[0]); //TODO qualche check su args[0]
 		PersonView personView = new PersonView(personModel);
 		PersonController personController = new PersonController(personView, personModel);
-				
+
+	// Commento prova Generoso
 		personView.printInfo();
-			
+
 		//dal front la vista viene aggiornata --> aggiorniamo il model e poi il db
 		personModel.setEmail("mario.rossi@gmail.com");
 		//aggiorno la vista
@@ -39,8 +40,8 @@ public class App
 	}
 
 	private static PersonModel getPersonFromDB(String email) {
-		
-		PersonDAO personDAO = new DefaultPersonDAO();		
+
+		PersonDAO personDAO = new DefaultPersonDAO();
 		return personDAO.getPersonInfo(email);
 	}
 }
