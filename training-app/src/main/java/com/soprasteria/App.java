@@ -15,13 +15,19 @@ import com.soprasteria.views.PersonView;
 public class App
 {
 	final static Logger logger = Logger.getLogger(App.class);
-<<<<<<< HEAD
 
-=======
+
+
+
 	
 	//commento di flavio
     
->>>>>>> task_Flavio
+
+
+
+		//sono francesco fiorentino e sono stato qui!
+
+
 	public static void main( String[] args ) {
 
 		PersonModel personModel = getPersonFromDB(args[0]); //TODO qualche check su args[0]
