@@ -12,6 +12,8 @@ import com.soprasteria.views.PersonView;
  * Hello world!
  *
  */
+
+// commento carmine
 public class App
 {
 	final static Logger logger = Logger.getLogger(App.class);
