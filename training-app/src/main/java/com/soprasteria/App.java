@@ -22,7 +22,7 @@ public class App
 		PersonView personView = new PersonView(personModel);
 		PersonController personController = new PersonController(personView, personModel);
 
-	// Commento prova Generoso
+	// Secondo Commento prova Generoso
 		personView.printInfo();
 
 		//dal front la vista viene aggiornata --> aggiorniamo il model e poi il db
