@@ -12,11 +12,13 @@ import com.soprasteria.views.PersonView;
  * Hello world!
  *
  */
+
+// commento carmine
 public class App
 {
 	final static Logger logger = Logger.getLogger(App.class);
 
-
+	//prova inserimento più commit FF
 
 
 	
@@ -34,7 +36,7 @@ public class App
 		PersonView personView = new PersonView(personModel);
 		PersonController personController = new PersonController(personView, personModel);
 
-	// Commento prova Generoso
+	// Secondo Commento prova Generoso
 		personView.printInfo();
 
 		//dal front la vista viene aggiornata --> aggiorniamo il model e poi il db
