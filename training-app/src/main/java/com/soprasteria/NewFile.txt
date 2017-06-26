@@ -4,7 +4,11 @@ Prova
 =======
 =======
 riga aggiunta
+<<<<<<< HEAD
 >>>>>>> e606d28df66d445d033a85d19ec154053e911278
+=======
+>>>>>>> 53a8b2818f61f9dbbdb406d55fcf2eabf4a45a7e
+>>>>>>> 48ed4cf99342c3cda8d6f42c8c825d70231785ac
 
 riga aggiunta
 
@@ -13,4 +17,8 @@ prova francescro fiorentino inserimento miei file
 >>>>>>> 649457b1ee4ea87866be99ff7be2f2bd9c3a979b
 =======
 
+<<<<<<< HEAD
 >>>>>>> e606d28df66d445d033a85d19ec154053e911278
+=======
+>>>>>>> 53a8b2818f61f9dbbdb406d55fcf2eabf4a45a7e
+>>>>>>> 48ed4cf99342c3cda8d6f42c8c825d70231785ac

@@ -18,12 +18,12 @@ public class App
 {
 	final static Logger logger = Logger.getLogger(App.class);
 
-	//prova inserimento più commit FF
+
+   // commento di Generoso
 
 
-	
 	//commento di flavio
-    
+
 
 
 

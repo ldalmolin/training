@@ -9,6 +9,9 @@ import junit.framework.TestSuite;
  */
 public class AppTest 
     extends TestCase
+	
+	
+	//commento di flavio
 {
     /**
      * Create the test case
@@ -20,6 +23,9 @@ public class AppTest
         super( testName );
     }
 
+	
+	
+	//commento flavio 2
     /**
      * @return the suite of tests being tested
      */
