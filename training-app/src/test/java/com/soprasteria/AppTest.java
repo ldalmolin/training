@@ -33,6 +33,7 @@ public class AppTest
      */
     public void testApp()
     {
+		//test for add and commit
         assertTrue( true );
     }
 }
