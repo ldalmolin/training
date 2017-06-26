@@ -16,6 +16,18 @@ public class App
 {
 	final static Logger logger = Logger.getLogger(App.class);
 
+
+
+
+	
+	//commento di flavio
+    
+
+
+
+		//sono francesco fiorentino e sono stato qui!
+
+
 	public static void main( String[] args ) {
 
 		PersonModel personModel = getPersonFromDB(args[0]); //TODO qualche check su args[0]
@@ -39,6 +51,7 @@ public class App
 		// TODO Auto-generated method stub
 	}
 
+	//commento di flavio 2
 	private static PersonModel getPersonFromDB(String email) {
 
 		PersonDAO personDAO = new DefaultPersonDAO();
