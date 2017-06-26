@@ -23,6 +23,9 @@ public class AppTest
         super( testName );
     }
 
+	
+	
+	//commento flavio 2
     /**
      * @return the suite of tests being tested
      */
