@@ -17,11 +17,11 @@ public class App
 	final static Logger logger = Logger.getLogger(App.class);
 
 
+   // commento di Generoso
 
 
-	
 	//commento di flavio
-    
+
 
 
 
